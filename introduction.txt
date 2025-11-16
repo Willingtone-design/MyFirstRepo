@@ -1,0 +1,5 @@
+Brief Introduction About Myself
+
+My name is Willingtone Ongayo Ajuoga. I am passionate about technology and currently working hard to build my skills in software engineering and data-related fields. I enjoy learning new things and constantly look for ways to grow both personally and professionally.
+
+I believe in discipline, consistency, and continuous improvement. This GitHub project marks the beginning of my journey into mastering version control, collaboration, and real-world development workflows.
